@@ -11,7 +11,7 @@ Sie ist als MVC implementiert.
 ## Datenbank
 
 Die DB ist eine Maria DB mit 250 Cocktails und Rezepten.
-DB liegt als MariaDB Dump vor.
+DB liegt als MariaDB Dump im .sql Format vor.
 
 ## Backend
 
